@@ -9,7 +9,7 @@ Node 18+
 - `npm install && npm run build`
 - Add MCP config to your LLM with:
     - command: "node"
-    - args: ["/path/to/build/index.js", "trafiklab_API_key>"]
+    - args: ["/path/to/build/index.js", "TRAFIKLAB_API_KEY"]
 
 ## Known issues
 
